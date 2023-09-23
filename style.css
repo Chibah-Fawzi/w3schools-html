@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+.bonjour {
+    color: red;
+    font-size: 10px;
+    font-style: italic;
+}
+
+#bonsoir {
+    background-color: blue;
+    color: aqua;
+}
